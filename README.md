@@ -1,6 +1,6 @@
 # Hello World Example
 
-![hello-world](https://user-images.githubusercontent.com/19663260/41165078-617d223c-6b45-11e8-8f9f-ffdc02e068ae.png)
+![hello-world](https://user-images.githubusercontent.com/5436504/60902121-1b864580-a23d-11e9-9b6f-b8ed1253ab26.png)
 
 This is an empty app used as a template for new **reSolve** applications. The `create-resolve-app` script started without arguments creates this app:
 
